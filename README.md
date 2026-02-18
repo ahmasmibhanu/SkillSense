@@ -6,6 +6,12 @@
 
 ---
 
+## 👨‍💻 Author
+
+**@ahmasmibhanu**
+*~AI / Full Stack / Software Engineering Enthusiast*
+
+---
 ### ⭐ If you find this project useful, consider starring the repository!
 
 ---
